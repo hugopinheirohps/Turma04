@@ -1,0 +1,8 @@
+a. Quem inventou o sistema de controle de versão Git e por quê?
+Resposta : O Sistema de Controle de versão CVS (na sigla em inglês para Concurrent Version System) foi originalmente desenvolvido por Dick Grune em 1984 como o primeiro CVS a suportar o gerenciamento de múltiplos arquivos e tornado público em 1986 e é dele que os sistemas de controle de versão atuais derivam.
+b. Quem atualmente é o dono do Github e por quê?
+A Microsoft comprou o GitHub, plataforma usada por desenvolvedores para hospedar códigos, por US$ 7,5 bilhões.  A Microsoft, apesar de ser uma das maiores criadores de software proprietário do mundo, é uma das maiores contribuidoras da plataforma. Muitos dos programas da companhia tiveram seus códigos abertos no GitHub, como PowerShell, Visual Studio Code e o motor de JavaScript do navegador Microsoft Edge. A guinada rumo ao código aberto começou com a chegada de Satya Nadella à presidência-executiva da Microsoft.
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+Além de ser um repositório de códigos e rede social, o GitHub ainda oferece a possibilidade de hospedagem de mini-sites estáticos, quantos você quiser!
+Isso é uma ótima maneira para os desenvolvedores criarem e divulgarem seus códigos diretamente.
+Há duas maneiras de construir suas páginas no GitHub: com o GitHub Theme Chooser, ou escrevendo o código do zero.

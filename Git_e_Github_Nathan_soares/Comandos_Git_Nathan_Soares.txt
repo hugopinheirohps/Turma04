@@ -1,0 +1,50 @@
+Comandos mais usados [ Git ] 
+
+## Comandos criar
+    > Criar um novo repositório local  | $ git init
+    > Clonar um repositório existente  | $ git clone "url"
+    > Adiciona um repositório remoto   | $ git remote add origin "url"
+    > Consulta os repositórios remotos | $ git remote -v
+    conectados                         |
+   
+
+## Comandos remover
+    > Remove uma URL remota do         | $ git remote rm origin 
+    repositório                        |
+  
+
+## Comandos de configurações
+    > Define o nome de usuário no Git  | $ git config --global user.name "user"
+    > Define o email usado no Git      | $ git config --global user.email "email"
+  
+
+## Comandos de alterações
+    > Troca o nome de usuário          | $ git config --global --replace-all user.name "user"
+    > Troca o email usado no Git       | $ git config --global --replace-all user.email "email"
+    > Altera URL do repositório        | $ git remote set-url "url"
+    remoto conectado                   |
+  
+
+## Comandos de status
+    > Lista o status dos               | $ git status
+    arquivos do repositório            | 
+    > Lista todos commits realizados   | $ git log
+  
+
+## Comandos adicionar arquivos no repositório
+    > Salva as alterações do arquivo   | $ git add "nome do arquivo"
+    no diretório local                 |
+    > Salva todas as alterções         | $ git add .
+    realizadas                         |
+ 
+
+## Comandos para commit
+    > Cria um commit das alterações    | $ git commit -m "mensagem" 
+    realizadas                         |
+
+
+## Comandos para enviar ou receber arquivos dos repositórios
+    > Recebe os arquivos atualizados   | $ git pull origin "nome da branch"
+    do repositório remoto              |
+    > Envia as modificações ao         | $ git push origin "nome da branch"
+    repositório remoto                 |

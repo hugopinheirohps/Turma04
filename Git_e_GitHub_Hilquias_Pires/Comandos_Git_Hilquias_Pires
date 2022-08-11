@@ -1,0 +1,37 @@
+Comandos usados recentemente:
+
+Criar repositório local
+	git init
+
+Verificar estado dos arquivos/diretórios1
+	git status
+
+Criar um arquivo
+	git touch exemplo.txt
+
+Criar diretório
+	mkdir exemplo
+
+Remover arquivo
+	rm exempo.txt
+
+Remover diretório
+	rmdir exemplo
+
+Renomear diretorio/arquivo
+	mv exemplo exemplo2
+
+Adicionar um arquivo ao índice
+	Git add
+
+Clonar um repositório remoto
+	Git clone remote url
+
+Salvar alterações em um repositório
+	Git commit -m "comentario"
+
+Subir arquivos locais para repositorio remoto
+	Git push origin master
+
+Atualizar arquivos locais para arquivos do repositorio remoto
+	Git pull origin master

@@ -1,0 +1,17 @@
+História do Github
+por Maria Clara
+
+a. Quem inventou o sistema de controle de versão Git e por quê?
+O Git foi desenvolvido em 2005 por Linus Torvalds, também criador do kernel do sistema operacional Linux. Foi criado com a pretensão de resolver exclusivamente um problema relacionado ao Kernel do Linux, mas hoje se tornou uma das ferramentas mais utilizadas no mundo inteiro para controle de versão.
+
+fonte: Taller
+
+b. Quem atualmente é o dono do Github e por quê?
+O maior repositório de código de programas do mundo pertence a Microsoft desde 2018. Diversos argumentos tentaram explicar o motivo da compra, fato é que a compra do Github é mais um passo na execução da estratégia definida por Satya Nadella (CEO da Microsoft), em consonância com a missão que ele reestabeleceu para a Microsoft: “empoderar cada pessoa e cada organização no planeta para atingir mais” e uma parte central de sua estratégia tem sido tentar atrair programadores de código aberto.
+
+fonte: Creativante
+
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+Sim, além do terminal é possível gerenciar os projetos através do Github Desktop e também pelo site.
+
+fonte: Tecnoblog

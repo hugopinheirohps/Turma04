@@ -1,0 +1,30 @@
+  P1 - Quem inventou o sistema de controle de versão Git e por quê?
+  R1 - o Git é um Sistema de Controle de Versão Distribuído.
+       Ele foi criado por Linus Torvalds, que é mais conhecido por outra criação, o Linux.
+       Linus desenvolveu o Git após ter ficado insatisfeito com uma mudança de licença de utilização do BitKeeper, 
+       o sistema de controle de versão que era utilizado por ele e pela equipe que desenvolvia o Linux.
+
+  P2 - Quem atualmente é o dono do Github e por quê?
+  R2 - Em 2018 a gigante  Microsoft foi às compras mais uma vez e levou o GitHub para casa por US$ 7,5 bilhões de dólares.
+       A compra é essencial para concentrar seus esforços nas quatro principais frentes que Nadella considera cruciais:
+       Nuvem, IA, Serviços (incluso Windows, Office e Xbox) e mercado corporativo.
+
+  P3 - Existe outra maneira, além do terminal, de trabalhar com o Github?
+  R3 - Segue alguns exemplos:
+       GitLab: é o mais próximo do GitHub em termos de uso e comportamento.
+
+       BitBucket: é um serviço de hospedagem de repositório de controle de versão da Atlassian. 
+       É totalmente integrado com outras ferramentas de gerenciamento de projeto Atlassian como Jira, 
+       HipChat e Confluence. Isso o torna a escolha preferida para grandes empresas.
+
+       SourceForge: é outro grande nome nesta lista de alternativas do GitHub.
+       SourceForge é popular entre os projetos de código aberto. 
+       Muitas distribuições e projetos Linux fornecem seus downloads por meio do SourceForge. 
+       Ele permite que os desenvolvedores criem projetos de código aberto, fornecendo todas as ferramentas necessárias.
+
+       Launchpad é uma plataforma de colaboração de software da Canonical, a empresa-mãe do Ubuntu. 
+       O Launchpad foi amplamente utilizado pela Canonical e por projetos no Ubuntu. 
+       Foi fundamental para fornecer o PPA e rastreamento de bugs para projetos relacionados ao Ubuntu.
+
+
+

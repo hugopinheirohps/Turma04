@@ -1,0 +1,18 @@
+COMANDOS                                    O QUE É
+git init                                    criar novo repositório
+git branch [name_branch]                    criar nova branch
+git chechout [name_branch]                  acessar branch
+git push origin [name_ branch]              subir informações do repositório local para o remoto
+git merge [name_branch_merge]               aglutinar informações de uma branch a outra repositório local
+git branch -d [branch_name]                 exclui branch local
+git push origin --delete [branch_name]      deleta branch do repositório local e remoto
+git clone [url do repositorio remoto]       clona um repositório existente
+cd [nome da pasta]                          entra na pasta desejada
+mkdir [nome da pasta]                       cria pasta
+touch [nome arquivo]                        cria arquivo
+nano [nome arquivo]                         cria e abre arquivo, ou somente abre se arquivo já existir
+git add                                     adiciona o arquivo ao repositório
+git commit -m "mensagem"                    salva uma mensagem de alteração de arquivo no commit
+git status                                  mostra o status do repositório
+git add.                                    adiciona todos os arquivos no repositório
+

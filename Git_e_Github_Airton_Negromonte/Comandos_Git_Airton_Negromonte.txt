@@ -1,0 +1,21 @@
+Comandos para criar:
+mkdir nome-do-diretorio cria um diretório ou pasta
+touch nome-do-arquivo.txt cria um arquivo
+
+Comando para excluir:
+rm nome-do-arquivo exclui o arquivo
+
+Comando para listar:
+ls lista os arquivos dentro da pasta
+
+Comando para navegar entre as pastas
+cd nome-da-pasta entra na próxima pasta
+cd desce todos os níveis de pasta
+
+Comando para limpar a tela:
+clear limpa a tela do terminal
+
+Comando para criar repositório
+git init inicia o repositório local para o trabalho
+git clone https://github.com/usuario/repo.git clona um projeto para o repositório local
+

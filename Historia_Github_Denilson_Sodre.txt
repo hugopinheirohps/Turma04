@@ -1,0 +1,15 @@
+Olá, meu nome, você já sabe, até chegar aqui você o leu umas três vezes, mas toda via é um nome bonito e não me importo em dizer novamente; Denilson Sodré. 
+É um enorme prazer ter você aqui lendo meu arquivo. Hoje estou aqui para responder a três perguntas, obviamente não eram coisas que eu sabia mas eu busquei no tio Google.
+
+Então vamos lá;
+A) Quem inventou o sistema de controle de versão Git e por quê?
+R: O meu, o seu, o nosso famoso GIT foi criado por diversos desenvolvedores em conjunto, mas o nome que se destaca é o de Linus Torvalds. Sua motivação para a criação desse
+software foi a insatisfação, o descontentamento com o software que era utilizado naquela época, no caso BitKeeper.
+
+B) Quem atualmente é o dono do GITHUB e por quê?
+R: Atualmente a dona do GITHUB é nada mais nada menos do que a Microsoft, que decidiu por comprar a empresa por U$7,5B querendo unir forças com a GITHUB fortalecendo o
+compromisso com a liberdade deixando o serviço ainda publico e acessivel.
+
+C)Existe outra maneira de trabalhar com o GITHUB alem do terminal?
+R:Todo o gerenciamento dos projetos, como criação de novos repositórios, é feito via comandos do sistema Git. Você também pode gerenciá-los pelo site, mas normalmente os
+processos são executados via linha de comando do seu computador ou servidor. 

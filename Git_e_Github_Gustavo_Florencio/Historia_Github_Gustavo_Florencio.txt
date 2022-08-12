@@ -1,0 +1,4 @@
+O Git que é um sistema de controle de versão foi criado por linus Torvalds, que tambem é criador do linux. ele Criou o Git por uma insatisfação com a mudanças na licença na utilização do bitkeeper, Como na época não existia nada similar, ele resolveu criar a sua própria versão de um sistema para controlar as alterações do projeto Linux. E foi aí que surgiu o Git.
+Como um bom sistema de controle de versão, o Git registra as mudanças que ocorrem no código-fonte de um projeto. Logo, permite que os arquivos sejam alterados de forma simultânea, por inúmeras pessoas, sem a preocupação que essas alterações sejam sobrescritas umas pelas outras.
+O github foi fundado em 2008 e atualmente é administrada pela microsoft desde que adquiriu a mesma em 2018 por US$ 7,5 bilhoes.
+o Github pode ser acessado pelo terminal e pelo site/aplicativo deles. 

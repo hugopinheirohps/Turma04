@@ -1,0 +1,12 @@
+a. Quem inventou o sistema de controle de versão Git e por quê?
+
+R:Kernel do Linux foi seu criador.Git com a proposta de resolver a necessidade de um sistema de distribuição descentralizada, e que seguisse a filosofia de software livre, assim como o Linux, e sem se preocupar em ficar preso a uma ferramenta proprietária que de um dia pro outro os criadores resolvessem comercializá-lo. 
+
+
+
+R:Atualmente o GIT pertence a microsoft desde de 2018 , por conta da missão da empresa de "empoderar cada pessoa e cada organização no planeta para atingir mais"
+
+
+
+R: Sim, pelo desktop e pelo site.
+

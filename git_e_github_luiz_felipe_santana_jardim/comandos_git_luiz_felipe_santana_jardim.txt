@@ -1,0 +1,3 @@
+criar umnovo repositorio local - git init
+adicionar todos os rquivos - git add .
+configurar um email - git config --global user.email "seu email"

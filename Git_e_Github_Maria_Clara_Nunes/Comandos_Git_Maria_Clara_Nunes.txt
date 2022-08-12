@@ -44,11 +44,24 @@ Comandos mais usados [ Git ]
 -------------------------------------------------------------------------------------------------------
 
 ## Comandos para enviar ou receber arquivos dos repositórios
-    > Recebe os arquivos atualizados   | $ git pull origin "nome da branch"
+    > Recebe os arquivos atualizados   | $ git pull | $ git pull origin "nome da branch"
     do repositório remoto              |
-    > Envia as modificações ao         | $ git push origin "nome da branch"
+    > Envia as modificações ao         | $ git push | $ git push origin "nome da branch"
     repositório remoto                 |
+    > Em caso de erro fatal, definir   | $ git push --set-upstream
+    a branch padrão
 -------------------------------------------------------------------------------------------------------
+
+## Comandos de branch
+  > Cria uma nova branch e copia os    | $ git branch "nome"
+  arquivos da branch principal         |
+  > Lista as branchs existentes        | $ git branch -add
+  > Troca de branch                    | $ git checkout "nome"
+  > Unifica a branch atual na branch   | $ git merge "nome"
+  master/main                          |
+  > Apaga branch local                 | $ git branch -d "nome"
+  > Apaga branch remota                | $ git push origin --delete "nome"
+
 
 
     

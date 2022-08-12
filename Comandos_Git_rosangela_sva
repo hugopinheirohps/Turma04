@@ -1,0 +1,4 @@
+Clonar un repositorio existente : $ git clone ssh://usuario@domain.com/repo.git
+Criar um novo repositório local : $ git init
+Como excluir uma branch: git branch -d <nome-da-branch>
+Como ver as branches: git branch ou git branch --list

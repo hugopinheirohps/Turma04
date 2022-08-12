@@ -1,0 +1,5 @@
+mkdir: cria um novo diretorio ou pasta
+
+toque: criar um novo arquivo
+
+git init: cria um novo repositorio local

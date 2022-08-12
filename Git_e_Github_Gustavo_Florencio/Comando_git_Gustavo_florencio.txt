@@ -1,0 +1,8 @@
+git init : Serve para inicializar um repositório vazio ou reinicializar um já existente;
+git Clone +Url-que-vc-quer: Utilizado para clonar o repositório;
+git Add =nome-do-arquivo: Serve para adicionar um arquivo para o State Area, para que seja vinculado a um próximo commit;
+git Commit -m "descrição do arquivo": Comando que serve para mover os arquivos do State Area para o repositório local;
+git Pull origin main ou a branch criada: Utilizado para buscar e trazer mudanças do repositório remoto para o repositório local, ou seja, unir os conteúdos dos arquivos alterados. Em alguns casos, pode ser necessária uma intervenção humana para realizar essa união;
+git Push origin main ou a branch criada: Utilizado para enviar o arquivo do repositório local para o remoto;
+git Murge +nome da branch a ser mesclada na atual: Serve para mesclar commits e Branchs na Branch atual;
+git Log: Permite ver o histórico de commits ou um específico.

@@ -1,0 +1,19 @@
+git config --global user.name Lucas             -> Insere nome para o Github online
+git config --global user.email lucas@live.com   -> Insere e-mail o Github online
+git remote -v 								    -> Confirmar se está na pasta certa
+git remote set-url origin url-que-vc-quer-link 	-> Alterar URL
+git commit -m "xxxxxxxx"						-> Salva apenas localmente
+git status									    -> Verificar se existem alterações
+git push origin master							-> Enviar alterações para o GH (tem que estar logado)
+mkdir pasta									    -> Cria uma pasta
+mv primeiro.txt index.html						-> Altera o nome dos arquivos
+rm primeiro.txt								    -> Exclui o arquivo
+rmdir primeiro/								    -> Exclui uma pasta
+git clone 									    -> Clona a url do GH
+touch arquivo.txt								-> Cria e abre o arquivo
+git pull origin master							-> Repositório local atualizado
+git branch nome								    -> Cria um novo ramo
+git checkout nome								-> Acessa um novo ramo
+git branch -d branch_name						-> Exclui uma branch local
+git branch origin --delete branch_name			-> Exclui uma branch online
+git merge novocadastro							-> Mesclagem entre as branchs

@@ -1,0 +1,37 @@
+login git
+
+git config --global user.name Bruno Souza
+git config --global user.email bs88994@gmail.com
+
+substituir login no gitbash
+
+git config --global --replace-all user.name SeuNome
+git config --global --replace-all user.email SeuEmail
+
+Adicionar no github repositorio no gitbash
+
+git remote add origin https://github.com/Brunosouzad/projeto
+
+Corrigir link do github
+
+git remote set-url origin url-que-vc-quer
+
+Push para enviar (empurrar) os arquivos para github
+
+git push origin master]
+
+subir alterações desatualizadas no github
+
+git pull origin main/master 
+
+Adicionar no repositorio 
+
+git add .
+
+comitar
+
+git commit -m "texto"
+
+Fazer push para Github
+
+git push origin main 

@@ -1,0 +1,18 @@
+Oi, estou passando aqui para deixar um breve registro dos comando mais utilizados, por mim, até o presente momento, no terminal Bash.
+Bom, esses comandos que mais utilizei seguem abaixo;
+1; git config --global user.name
+2; git config --global user.email
+3; git clone https://github.com/****/****.git
+4; git pull 
+5; git add 
+6; git commit -m
+7; git push
+
+Mas o que cada um desses comandos fazem?
+1; git config --global user.name: Confere o nome de usuario, para eu saber se é o meu nome que está para cada registro que eu fizer.
+2; git config --global user.email: Confere o email de usuario, para eu saber se é o meu nome que está para cada registro que eu fizer.
+3; git clone https://github.com/****/****.git: Clona um repositório do GitHub para que eu possa começar a realizar meus trabalhos.
+4; git pull: Uso para puxar as ultimas atualizações daquele repositório que já tenho e continua a ser trabalhado por outros.
+5; git add: Uso para adicionar os arquivos nos quais eu fiz alterações.
+6; git commit -m; Uso para comentar sobre alterações que fiz e assim termos como saber quem fez, o que fez, e termos um checkpoint, caso aja necessidades de voltar a esse ponto.
+7; git push: por fim envio essas atualizações para o GitHub, onde agora podem fazer o pull e continuarem atualizando, se for necessário.

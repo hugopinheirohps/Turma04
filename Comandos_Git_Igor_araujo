@@ -1,0 +1,33 @@
+Comandos GitHub
+
+git config --global user.name Igor Araujo <configurar nome
+
+git config --global user.email hugopinheirohps@live.com <configurar email
+
+git remote add origin https://github.com/hugopinheigirohps/teste <configurar url repositório
+
+git add . // adiciona todos os arquivos
+
+git commit -m "mensagem" // cria um ponto de restauração com um comentario
+
+git push origin master // envia as mudanças para o repositório remoto
+
+git status // rastreia o status do arquivo
+
+git config --global --replace-all user.name SeuNome < redefinir nome 
+
+git config --global --replace-all user.email SeuEmail <redefinir email       
+
+git remote set-url origin url-que-vc-quer <redefinir a url
+
+git remote -v <verificar o repositorio configurado
+
+git branch nome <cria uma copia dos arquivos da pasta raiz
+
+git branch -d nome <Deleta a branch
+
+git checkout nome da branch <entrar na branch
+
+git merge <mescla os aquivos da branch
+
+git pull <Baixa as mudanças que existem no respositrio remoto

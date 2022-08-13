@@ -1,0 +1,30 @@
+comandos_git_yago_santos
+
+Git init // Inicializar repositorio local
+Git clone ’url do repositorio remoto’ //copiar um repositorio remoto para sua maquina local
+Git add . “Adicionar todos os arquivos da pasta”// git add “adicionar arquivo especifico” “caso alteração refazer o add”
+Git status “verificar status de add,rm,mv dentre outros”
+Git log “cada commit feito estara localizado aqui podendo reverter ações feitas”
+git config --global  user.name YagogesKRYEG “nome do login do usuario”
+git config --global  user.email yagoap2001@gmail.com “email do login do usuario”
+“Caso errou o nome”git config --global --replace-all user.name “seu nome”
+“Caso errou o email”git config --global --replace-all user.email “seu email”
+git remote add origin “url do repositorio” // seta onde seu fetch,pull e push serao feitos a um repositorio remoto 
+“Caso errou a url” git remote set-url origin url-que-vc-quer
+Git push origin master // caso seja um branch troque o master pelo nome da branch
+Git pull origin master “caso esteja em uma branch diferente troque o master pela branch”
+Git remote -v “para ver se esta correto a pasta para fetch e push”
+git branch “nome da branch”
+git checkout “nome da branch para entra nela”
+Git checkout master “volta pra master”
+Git checkout -d “deleta a branch”
+Git merge “nome da branch” // para fazer o merge tem q fazer no master e as vezes o merge acontecer automaticamente ao fazer git pull e git push
+
+
+
+
+
+
+
+//Comentarios
+“” ’’ comentarios/observaçoes

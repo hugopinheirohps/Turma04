@@ -1,0 +1,45 @@
+ls - (list) exibe os arquivos da pasta em que estamos localizados.
+
+dir - exibe os arquivos da pasta que estamos localizados.
+
+cd .. - nos permite voltar para a pasta anterior.
+
+rm nomeArquivo.extensao - elimina o arquivo que indicarmos (não devemos nos esquecer de informar a extensão do arquivo).
+
+mv nomeAnterior nomeNovo - altera o nome de um arquivo pelo novo nome que indicarmos.
+
+Clear - limpa tudo que há na tela do terminal .
+
+cd nomePasta - Nos permite acessar a pasta que indicarmos o nome. 
+
+mkdir nomePasta - cria uma pasta com o nome que indicarmos. 
+
+touch nomeArquivo.extensao - Cria um arquivo com o nome e extensão que indicarmos.
+
+git init - cria um repositório local, ou reinicia o repositório local.
+
+git config --global user.name "Seu nome de usuário" - configura o nome de usuário que vc quer ligado ao Commit (commit é a revisão do arquivo)
+
+git config --global user.email "seu email" a mesma coisa do de cima, só que agr linka o seu e-mail.
+
+git remote add origin https...(link do seu github)
+
+git add "nome do arquivo que vai subir para a nuvem" - adiciona o arquivo ao repositório
+
+git status - lista todos os arquivos e alterações 
+
+git commit -m "descrição da alteração" - adiciona um comentário para o commit 
+
+git add . - adiciona todos os arquivos ao repositório.
+
+git push origin Master - envia as mudanças para o repositório remoto.
+
+git push origin main - comando utilizado para logsr no github pelo terminal. (Vai abrir uma janela no navegsdor) se nada acontecer é pq ta tudo logado já. 
+
+git clone - para copiar as últimas versões de arquivos disponíveis ma Nuvem 
+
+git pull origin main - para atualizar arquivos de um repositório que já se encontra na máquina.
+
+Git branch nome-branchnova - cria uma nova Branch com o nome que vx colocar na frente, importante, tem que estar dentro da pasta que vc clonou do github.
+
+Git checkout nome-branch - entra na nova branch que foi criada

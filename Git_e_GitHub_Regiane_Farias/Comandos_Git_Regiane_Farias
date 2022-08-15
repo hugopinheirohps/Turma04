@@ -1,0 +1,13 @@
+
+git init - Criar um repositório
+
+mkdir - Criar pasta
+
+git add - Adicionar página ao repositório
+
+
+git commit -m - Adicionar comentários a um arquivo modificado
+
+git status - verificar o status de uma pasta/arquivo
+
+

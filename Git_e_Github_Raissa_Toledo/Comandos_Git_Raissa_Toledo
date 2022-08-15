@@ -1,0 +1,14 @@
+Principais comandos utilizados:
+1. Terminal
+cd -> ir para uma pasta específica
+mkdir -> criação de pasta
+touch -> criação de arquivo
+
+2. Git
+git init -> inicia um repositório local
+git add -> adiciona os arquivos na fila do repositório já criado
+git commit -m "mensagem" -> salva os arquivos no repositório com uma mensagem associada ao commit
+git clone link-do-repositorio -> clona um repositório online na máquina
+git pull origin master -> baixa os arquivos atualizados de um diretório online
+git push -> sobe para o repositório online arquivos que estejam no repositório local
+

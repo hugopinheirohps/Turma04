@@ -1,0 +1,20 @@
+mkdir nomedo-diretório cria um pasta ou pasta
+touch nome-do-arquivo.txt cria um arquivo
+
+Comando para excluir:
+rm nome-do-arquivo exclui o arquivo
+
+Comando para listar:
+ls lista os arquivos dentro da pasta
+
+Comando para navegar entre as massas
+cd nome-da-pasta entra na próxima pasta
+cd desce todos os níveis de pasta
+
+Comando para limpar a tela:
+limpar limpar a tela do terminal
+
+Comando para criar direitos
+git init inicia o governo local para o trabalho
+git clone https://gitub.com/usu/repo.git clone um projeto para operação o giriot local
+
